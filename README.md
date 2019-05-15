@@ -1,6 +1,6 @@
 ## 简介
 
->这是一个基于 `webpack4` 的 `React` 轻量级脚手架。<br>`npm i wp4-cli -g`，然后`wp4 init [your-project]`即可搭建一个 React 环境。<br>`mock`与简单`api`封装已经完成，后续会补充路由配置，敬请期待。
+>这是一个基于 `webpack4` 的 `React` 轻量级脚手架。<br>`npm i wpk-cli -g`，然后`wp4 init [your-project]`即可搭建一个 React 环境。<br>`mock`与简单`api`封装已经完成，后续会补充路由配置，敬请期待。
 
 ***
 
